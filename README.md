@@ -26,7 +26,7 @@ npm i koa koa-body uuid mongodb dotenv @koa/cors @koa/router
 Execute following command to install dev-dependencies needed.
 
 ```text
-npm install --save-dev nodemon
+npm install --save-dev nodemon jest
 ```
 
 ## Run the server
